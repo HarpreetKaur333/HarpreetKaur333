@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 # Hello, I'm Harpreet Kaur 👋
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🚀
 
 - 🌟 **Currently**: FrontEnd Developer 
 - 🌱 **Learning**:- Programming Languages: TypeScript, JavaScript, PHP /Frontend: HTML, CSS3, Bootstrap, DevExtreme /Frameworks: Angular, AngularJS, Node.js, React, Laravel /Other Skills: NgRx, RxJS, Jasmine and karma Angular Testing, Git, Docker, Object-Oriented Programming, Adaptable to New Technologies, Strong Work Ethic
-- 💼 **Skills**: [Key Skills, e.g., HTML, CSS, React, Node.js]
+- 
 
 - 🌍 **Location**: Montreal, QC
 
